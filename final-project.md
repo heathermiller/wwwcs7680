@@ -11,7 +11,7 @@ confluence of distributed systems and programming langauges. At the conclusion
 of the course, we'll publish this polished collection of articles online as
 something of a book. I expect this book to get quite a bit of attention from the
 international developer community on social media. So, please keep this in mind
-throughout the course, as you read/analyze/write! Your work may be used as by
+throughout the course as you read/analyze/write! Your work may be used as by
 developers as reference material for years to come, so be thorough!
 
 Articles (or chapters) will correspond roughly to the weekly topics we cover
