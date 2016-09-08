@@ -148,7 +148,12 @@ You will be evaluated on:
     <tr>
       <td><strong>10/20</strong></td>
       <td>Consistency, CRDTs</td>
-      <td> </td>
+      <td>
+        <ul>
+          <li>CRDTs</li>
+          <li>Cloud Types</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>10/27</strong></td>
