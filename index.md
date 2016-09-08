@@ -154,7 +154,8 @@ You will be evaluated on:
       <td>Languages &amp; Consistency<br>Guest: Chris Meiklejohn</td>
       <td>
         <ul>
-          <li>Bloom</li>
+          <li>Consistency Analysis in Bloom: a CALM and Collected Approach</li>
+          <li>Logic and Lattices for Distributed Programming</li>
           <li><a href="https://scholar.google.com/scholar?cluster=2826500853026939967&hl=en&as_sdt=0,22">Lasp: A language for distributed, coordination-free programming</a></li>
         </ul>
       </td>
