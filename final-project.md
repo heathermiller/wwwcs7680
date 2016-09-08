@@ -22,7 +22,7 @@ student will take the responsibility as **_lead_** on one specific
 article/chapter. The lead on a chapter is free to choose the direction and shape
 that their article takes; that is, you are allowed to decide for yourself what
 is important or relevant, and you're allowed to steer your topic in a direction
-that's a bit different from the focus put on it in class, if you feel it's the
+that's a bit different from the focus put on it in class if you feel it's the
 right thing to do!
 
 The papers that we cover in class should be considered the tip of the iceberg --
