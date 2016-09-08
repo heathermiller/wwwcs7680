@@ -25,8 +25,8 @@ is important or relevant, and you're allowed to steer your topic in a direction
 that's a bit different from the focus put on it in class if you feel it's the
 right thing to do!
 
-The papers that we cover in class should be considered the tip of the iceberg --
-keep in mind that you will be expected to read and include other papers in your
+The papers that we cover in class should be considered the tip of the
+iceberg--you will be expected to read and include other papers in your
 article/chapter. Remember, your final article/chapter is meant to serve as a
 view of the important stepping stones throughout history on your topic, as well
 as the current state of the art of your topic. This will typically require you
