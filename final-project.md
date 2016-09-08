@@ -18,7 +18,7 @@ Articles (or chapters) will correspond roughly to the weekly topics we cover
 together in the course.
 
 Students may collaborate with one another on these articles, however, each
-student will take the responsibility of lead on one specific article/chapter.
+student will take the responsibility as _lead_ on one specific article/chapter.
 The lead on a chapter is free to choose the direction and shape that their
 article takes; that is, you are allowed to decide for yourself what is important
 or relevant, and you're allowed to steer your topic in a direction that's a bit
