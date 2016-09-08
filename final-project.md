@@ -37,9 +37,11 @@ to read several more papers than those covered in class!
 
 While the focus of the final project is a high-quality, polished article
 covering the state of the art of your topic, experimental
-evaluations/implementations are welcome to be included as well. If you wish to
-include some kind of implementation or experimental evaluation on your topic,
-please discuss and clear your ideas with me by the appropriate deadline.
+evaluations/implementations are welcome to be included as well.
+
+If you wish to include some kind of implementation or experimental evaluation on
+your topic, please discuss and clear your ideas with me by the appropriate
+deadline.
 
 
 ## Project Organization/Timeline
