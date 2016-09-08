@@ -156,7 +156,8 @@ You will be evaluated on:
         <ul>
           <li>Consistency Analysis in Bloom: a CALM and Collected Approach</li>
           <li>Logic and Lattices for Distributed Programming</li>
-          <li><a href="https://scholar.google.com/scholar?cluster=2826500853026939967&hl=en&as_sdt=0,22">Lasp: A language for distributed, coordination-free programming</a></li>
+          <li><a href="http://www.bailis.org/papers/consistency-socc2013.pdf">Consistency Without Borders (2013)</a></li>
+          <li><a href="https://scholar.google.com/scholar?cluster=2826500853026939967&hl=en&as_sdt=0,22">Lasp: A language for distributed, coordination-free programming (2015)</a></li>
         </ul>
       </td>
     </tr>
