@@ -20,11 +20,11 @@ social:
 
 # "Hi, I'm _______"
 name: NU
-email: test@example.com
-tagline: "weak opinions, strongly held"
+email: heather@ccs.neu.edu
+tagline: ""
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+google_analytics_key: UA-574683-16
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
