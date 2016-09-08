@@ -79,6 +79,7 @@ You will be evaluated on:
       <td>Introduction</td>
       <td>
         <ul>
+          <li>Intro slides</li>
           <li><a href="https://scholar.google.com/scholar?cluster=9759286599132405476&hl=en&as_sdt=0,22">A View of Cloud Computing</a></li>
           <li><a href="http://www.rgoarchitects.com/Files/fallacies.pdf">Fallacies of Distributed Computing Explained</a></li>
           <li>Optional: <a href="http://book.mixu.net/distsys/intro.html">(Intro) Distributed Systems for Fun and Profit</a></li>
