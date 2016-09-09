@@ -17,7 +17,7 @@ be expected to:
 ## Summaries/Analyses of Papers
 
 Your writeup is due as a pull request to our [class
-repo](https://github.com/heathermiller/cs7680) **on Thursdays between 5pm-6pm**.
+repo](https://github.ccs.neu.edu/heather/cs7680) **on Thursdays between 5pm-6pm**.
 This is to ensure that everyone writes their own writeup without _borrowing_
 from someone else. Please keep your summaries private before you make your PR
 (either do not push to your local fork before the deadline, or make your fork
@@ -72,7 +72,7 @@ the discussion session (~1hr) section of the course.
 Note, if you're minuting for the current session, **you are not required to
 submit a writeup or do a presentation at the next session** (though you still
 ought to read your assigned paper). Your minutes are due as a PR to the [class
-repo](https://github.com/heathermiller/cs7680) by the start of the next class.
+repo](https://github.ccs.neu.edu/heather/cs7680) by the start of the next class.
 
 Here's [a good
 example](https://github.com/scalacenter/advisoryboard/blob/master/minutes/002-2016-q3.md)
