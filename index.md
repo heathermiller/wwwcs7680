@@ -58,7 +58,7 @@ You will be evaluated on:
 <h2><i id="announcements" class="fa fa-bookmark"></i> Announcements</h2>
 <ul id="blog-posts" class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 

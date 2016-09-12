@@ -376,3 +376,11 @@
 		margin-left: 20px;
 		padding-left: 8px;
 	}
+
+	.title {
+		letter-spacing: -1px;
+	}
+
+	.announcement-title {
+		font-size: 20px;
+	}
