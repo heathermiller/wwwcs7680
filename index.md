@@ -107,7 +107,8 @@ You will be evaluated on:
           <li><a href="https://scholar.google.com/scholar?cluster=1955556762785357880&hl=en&as_sdt=0,22">Multilisp: A language for concurrent symbolic computation (1985)</a></li>
           <li><a href="">Promises: linguistic support for efficient asynchronous procedure calls in distributed systems (1988)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=11665674903792157498&hl=en&as_sdt=0,22">A Complete Guide to the Future (2007)</a></li>
-          <li>Oz</li>
+          <li>Oz/Ozma, dataflow variables</li>
+          <!-- http://lampwww.epfl.ch/~hmiller/scala2013/resources/pdfs/paper4.pdf -->
           <li><a href="https://scholar.google.com/scholar?cluster=14809811497832734817&hl=en&as_sdt=0,22">The F# asynchronous programming model (2011)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=14922225451262628725&hl=en&as_sdt=0,22">Your Server as a Function (2013)</a></li>
         </ul>
