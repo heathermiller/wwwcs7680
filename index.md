@@ -118,7 +118,7 @@ You will be evaluated on:
       <td>Message passing <br><a href="http://www.csc.kth.se/~phaller/">Guest: Prof. Philipp Haller</a></td>
       <td>
         <ul>
-          <li><a href="">Concurrent Object-Oriented Programming (1990)</a></li>
+          <li><a href="{{ site.baseurl }}/pdfs/Concurrent-Object-Oriented-Programming.pdf">Concurrent Object-Oriented Programming (1990)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=14666648622069497741&hl=en&as_sdt=0,22">Concurrency among strangers (2005)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=12143957832676562816&hl=en&as_sdt=0,22">Scala actors: Unifying thread-based and event-based programming (2009)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=3661419197567070875&hl=en&as_sdt=0,22">Erlang (2010)</a></li>
