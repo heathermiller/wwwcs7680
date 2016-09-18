@@ -106,7 +106,7 @@ You will be evaluated on:
         <ul>
           <li><a href="https://scholar.google.com/scholar?cluster=1955556762785357880&hl=en&as_sdt=0,22">Multilisp: A language for concurrent symbolic computation (1985)</a></li>
           <li><a href="{{ site.baseurl }}/pdfs/liskov1988.pdf">Promises: linguistic support for efficient asynchronous procedure calls in distributed systems (1988)</a></li>
-          <li>Oz/Ozma, dataflow variables. (Thread-Based Mobility in Oz/A New Concurrency Model for Scala Based on a Declarative Dataflow Core)</li>
+          <li><strong>Oz dataflow concurrency</strong>. Selected sections from the textbook <em>Concepts, Techniques, and Models of Computer Programming</em>. <br><strong>Sections to read:</strong> 1.11: Dataflow, 2.2: The single-assignment store, 4.93-4.95: Dataflow variables as communication channels ...etc.</li>
           <!-- http://lampwww.epfl.ch/~hmiller/scala2013/resources/pdfs/paper4.pdf -->
           <li><a href="https://scholar.google.com/scholar?cluster=14809811497832734817&hl=en&as_sdt=0,22">The F# asynchronous programming model (2011)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=14922225451262628725&hl=en&as_sdt=0,22">Your Server as a Function (2013)</a></li>
