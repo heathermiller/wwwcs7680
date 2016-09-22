@@ -119,7 +119,8 @@ You will be evaluated on:
       <td>
         <ul>
           <li><a href="{{ site.baseurl }}/pdfs/Concurrent-Object-Oriented-Programming.pdf">Concurrent Object-Oriented Programming (1990)</a></li>
-          <li><a href="https://scholar.google.com/scholar?cluster=14666648622069497741&hl=en&as_sdt=0,22">Concurrency among strangers (2005)</a></li>
+          <!-- <li><a href="https://scholar.google.com/scholar?cluster=14666648622069497741&hl=en&as_sdt=0,22">Concurrency among strangers (2005)</a></li> -->
+          <li>An implementation of MPI</li>
           <li><a href="https://scholar.google.com/scholar?cluster=12143957832676562816&hl=en&as_sdt=0,22">Scala actors: Unifying thread-based and event-based programming (2009)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=3661419197567070875&hl=en&as_sdt=0,22">Erlang (2010)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=8745667089860760093&hl=en&as_sdt=0,22">Orleans: cloud computing for everyone (2011)</a></li>
