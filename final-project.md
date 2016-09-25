@@ -56,8 +56,8 @@ discuss your progress. I expect you to begin devoting time to
 reading/structuring/sketching ideas early on.
 
 I will set aside a meeting block on Friday mornings. A sign up sheet will go
-around during the September 15 class period for you to grab 3-4 meeting blocks
-over the course of the semester.
+around for you to grab 3-4 meeting blocks over the course of the semester as
+soon as final projects are chosen.
 
 
 ## Project Repository

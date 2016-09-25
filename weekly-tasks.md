@@ -70,9 +70,10 @@ discussion sessions, each week, one person will be responsible for minuting only
 the discussion session (~1hr) section of the course.
 
 Note, if you're minuting for the current session, **you are not required to
-submit a writeup or do a presentation at the next session** (though you still
-ought to read your assigned paper). Your minutes are due as a PR to the [class
-repo](https://github.ccs.neu.edu/heather/cs7680) by the start of the next class.
+submit a writeup at the next session** (though you still ought to read your
+assigned paper and present it to the class). Your minutes are due as a PR to the
+[class repo](https://github.ccs.neu.edu/heather/cs7680) by the start of the next
+class.
 
 Here's [a good
 example](https://github.com/scalacenter/advisoryboard/blob/master/minutes/002-2016-q3.md)
