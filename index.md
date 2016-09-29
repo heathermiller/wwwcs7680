@@ -138,9 +138,11 @@ You will be evaluated on:
         <ul>
           <li><a href="https://scholar.google.com/scholar?cluster=11916375963622989104&hl=en&as_sdt=0,22">Distributed Programming in Argus (1988)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=11241841329610336715&hl=en&as_sdt=0,22">Distribution and Abstract Types in Emerald (1987)</a></li>
-          <li>E</li>
           <li><a href="{{ site.baseurl }}/pdfs/Linda-Alternative-to-Message-Passing.pdf">The Linda alternative to message-passing systems (1994)</a></li>
-          <li><a href="https://scholar.google.com/scholar?cluster=14924122120956391575&hl=en&as_sdt=0,22">Orca: A Language For Parallel Programming of Distributed Systems</a></li>
+          <li><a href="https://scholar.google.com/scholar?cluster=14924122120956391575&hl=en&as_sdt=0,22">Orca: A Language For Parallel Programming of Distributed Systems (1992)</a></li>
+          <li><a href="https://scholar.google.com/scholar?cluster=8035716316641808258&hl=en&as_sdt=0,22">Ambient-Oriented Programming in AmbientTalk (2006)</a></li>          
+          <!-- <li>E</li> -->
+          <!-- <li>Erlang</li> -->
         </ul>
       </td>
     </tr>
