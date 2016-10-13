@@ -24,6 +24,7 @@ title: Paper assignments for "distributed PLs" week
 
 - Abhilash M.
 - Connor Z.
+- Aviral G.
 
 [**Ambient-Oriented Programming in AmbientTalk (2006)**](https://scholar.google.com/scholar?cluster=8035716316641808258&hl=en&as_sdt=0,22)
 
