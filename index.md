@@ -140,7 +140,7 @@ You will be evaluated on:
           <li><a href="https://scholar.google.com/scholar?cluster=11241841329610336715&hl=en&as_sdt=0,22">Distribution and Abstract Types in Emerald (1987)</a></li>
           <li><a href="{{ site.baseurl }}/pdfs/Linda-Alternative-to-Message-Passing.pdf">The Linda alternative to message-passing systems (1994)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=14924122120956391575&hl=en&as_sdt=0,22">Orca: A Language For Parallel Programming of Distributed Systems (1992)</a></li>
-          <li><a href="https://scholar.google.com/scholar?cluster=8035716316641808258&hl=en&as_sdt=0,22">Ambient-Oriented Programming in AmbientTalk (2006)</a></li>          
+          <li><a href="https://scholar.google.com/scholar?cluster=8035716316641808258&hl=en&as_sdt=0,22">Ambient-Oriented Programming in AmbientTalk (2006)</a></li>
           <!-- <li>E</li> -->
           <!-- <li>Erlang</li> -->
         </ul>
@@ -151,8 +151,11 @@ You will be evaluated on:
       <td>Consistency, CRDTs</td>
       <td>
         <ul>
-          <li>CRDTs</li>
-          <li>Cloud Types</li>
+          <li><a href="http://www.glassbeam.com/sites/all/themes/glassbeam/images/blog/10.1.1.67.6951.pdf">Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services (2002)</a></li>
+          <li><a href="https://hal.inria.fr/inria-00609399/document">Conflict-free Replicated Data Types (2011)</a></li>
+          <li><a href="https://hal.inria.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types (2011)</a></li>
+          <li><a href="https://www.researchgate.net/profile/Eric_Brewer3/publication/260584236_CAP_twelve_years_later_How_the_Rules_have_changed/links/56a1cf3808ae24f62702165f.pdf">CAP Twelve Years Later: How the "Rules" Have Changed (2012)</a></li>
+          <li><a href="http://s3.amazonaws.com/academia.edu.documents/33872009/final-with-color.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1476387538&Signature=EAzZ7jFHW4DWsQV8Du4QLxLHSto%3D&response-content-disposition=inline%3B%20filename%3DCloud_Types_for_Eventual_Consistency.pdf">Cloud Types (2012)</a></li>
         </ul>
       </td>
     </tr>
@@ -161,8 +164,8 @@ You will be evaluated on:
       <td>Languages &amp; Consistency<br>Guest: Chris Meiklejohn</td>
       <td>
         <ul>
-          <li>Consistency Analysis in Bloom: a CALM and Collected Approach</li>
-          <li>Logic and Lattices for Distributed Programming</li>
+          <li><a href="http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf">Consistency Analysis in Bloom: a CALM and Collected Approach (2011)</a></li>
+          <li><a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming (2012)</a></li>
           <li><a href="http://www.bailis.org/papers/consistency-socc2013.pdf">Consistency Without Borders (2013)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=2826500853026939967&hl=en&as_sdt=0,22">Lasp: A language for distributed, coordination-free programming (2015)</a></li>
         </ul>
