@@ -155,7 +155,7 @@ You will be evaluated on:
           <li><a href="https://hal.inria.fr/inria-00609399/document">Conflict-free Replicated Data Types (2011)</a></li>
           <li><a href="https://hal.inria.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types (2011)</a></li>
           <li><a href="https://www.researchgate.net/profile/Eric_Brewer3/publication/260584236_CAP_twelve_years_later_How_the_Rules_have_changed/links/56a1cf3808ae24f62702165f.pdf">CAP Twelve Years Later: How the "Rules" Have Changed (2012)</a></li>
-          <li><a href="http://s3.amazonaws.com/academia.edu.documents/33872009/final-with-color.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1476387538&Signature=EAzZ7jFHW4DWsQV8Du4QLxLHSto%3D&response-content-disposition=inline%3B%20filename%3DCloud_Types_for_Eventual_Consistency.pdf">Cloud Types (2012)</a></li>
+          <li><a href="{{ site.baseurl }}/pdfs/Cloud-Types.pdf">Cloud Types for Eventual Consistency (2012)</a></li>
         </ul>
       </td>
     </tr>
