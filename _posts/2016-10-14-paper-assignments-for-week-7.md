@@ -32,10 +32,4 @@ title: Paper assignments for "consistency + CRDTs" week
 - Tony G.
 - Jingjing R.
 
-[**Ambient-Oriented Programming in AmbientTalk (2006)**](https://scholar.google.com/scholar?cluster=8035716316641808258&hl=en&as_sdt=0,22)
-
-- Kisalaya P.
-- Avanti P.
-- Sam C.
-
 
