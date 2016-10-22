@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper assignments for "consistency + CRDTs" week
+title: Paper assignments for "consistency + languages" week
 ---
 
 [**Consistency Analysis in Bloom: a CALM and Collected Approach (2011)**](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf)
