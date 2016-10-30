@@ -176,11 +176,16 @@ You will be evaluated on:
       <td>Languages Extended for Distribution</td>
       <td>
         <ul>
-          <li>Cloud Haskell</li>
-          <li>Alice ML</li>
-          <li>Termite Scheme</li>
-          <li>ML5</li>
-          <li>MBrace</li>
+          <li><a href="https://scholar.google.ch/scholar?cluster=8708455077175955066&hl=en&as_sdt=0,5">Towards Haskell in the Cloud (2011)</a></li>
+          <li><a href="https://www.mpi-sws.org/~rossberg/papers/Rossberg,%20Le%20Botlan,%20Tack,%20Brunklaus,%20Smolka%20-%20Alice%20Through%20the%20Looking%20Glass.pdf">Alice Through the Looking Glass (2004)</a></li>
+          <li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.1527&rep=rep1&type=pdf">Concurrency Oriented Programming in Termite Scheme (2006)</a></li>
+          <li><a href="https://scholar.google.ch/scholar?cluster=627024355240086822&hl=en&as_sdt=0,5">Type-safe distributed programming with ML5 (2007)</a></li>
+          <li><strong>MBrace</strong>
+            <ul>
+              <li><a href="https://scholar.google.ch/scholar?cluster=2982751034759368856&hl=en&as_sdt=0,5">MBrace: cloud computing with monads (2013)</a></li>
+              <li><a href="http://mbrace.io/programming-model.html">MBrace Programming Model (Tutorial)</a></li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
