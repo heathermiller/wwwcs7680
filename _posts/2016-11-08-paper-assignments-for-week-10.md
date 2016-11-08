@@ -7,6 +7,7 @@ title: Paper assignments for "large scale parallel processing" week
 
 - Muzammil A.
 - Jingjing R.
+- Connor Z.
 
 [**DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language (2008)**](https://scholar.google.com/scholar?cluster=3662601067977846800&hl=en&as_sdt=0,22)
 
