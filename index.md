@@ -194,7 +194,7 @@ You will be evaluated on:
       <td>Large-scale, parallel processing (batch)</td>
       <td>
         <ul>
-          <li><a href="https://scholar.google.com/scholar?cluster=10940266603640308767&hl=en&as_sdt=0,22">MapReduce: simplified data processing on large clusters (2008)</a></li>
+          <li><a href="http://jayurbain.com/msoe/cs4230/Readings/MapReduce%20-%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf">MapReduce: simplified data processing on large clusters (2008)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=3662601067977846800&hl=en&as_sdt=0,22">DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language (2008)</a></li>
           <li><a href="https://scholar.google.com/scholar?cluster=12651943154484674722&hl=en&as_sdt=0,22">Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing (2012)</a></li>
           <li><a href="https://cs.stanford.edu/~matei/papers/2015/sigmod_spark_sql.pdf">Spark SQL: Relational Data Processing in Spark (2015)</a></li>

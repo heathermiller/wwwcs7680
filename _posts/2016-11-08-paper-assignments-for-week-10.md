@@ -3,7 +3,7 @@ layout: post
 title: Paper assignments for "large scale parallel processing" week
 ---
 
-[**MapReduce: simplified data processing on large clusters (2008)**](https://scholar.google.com/scholar?cluster=10940266603640308767&hl=en&as_sdt=0,22)
+[**MapReduce: simplified data processing on large clusters (2008)**](http://jayurbain.com/msoe/cs4230/Readings/MapReduce%20-%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf)
 
 - Muzammil A.
 - Jingjing R.
