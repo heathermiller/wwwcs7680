@@ -221,12 +221,18 @@ You will be evaluated on:
     <tr>
       <td><strong>12/1</strong></td>
       <td>Large-scale, streaming</td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href="https://scholar.google.com/scholar?cluster=9379975392398657331">TelegraphCQ: continuous dataflow processing (2003)</a></li>
+          <li><a href="https://cs.stanford.edu/~matei/courses/2015/6.S897/readings/naiad.pdf">Naiad: A Timely Dataflow System (2013)</a></li>
+          <li><a href="https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final28.pdf">Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters (2012)</a></li>
+          <li><a href="https://cs.stanford.edu/~matei/courses/2015/6.S897/readings/google-dataflow.pdf">The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing (2015)</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>12/8</strong></td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>One-on-one final project meetings (no lecture)</td>
     </tr>
   </tbody>
 </table>
