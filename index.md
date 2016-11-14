@@ -232,7 +232,8 @@ You will be evaluated on:
     </tr>
     <tr>
       <td><strong>12/8</strong></td>
-      <td>One-on-one final project meetings (no lecture)</td>
+      <td></td>
+      <td><strong>One-on-one final project meetings (no lecture)</strong></td>
     </tr>
   </tbody>
 </table>
