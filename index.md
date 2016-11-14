@@ -204,7 +204,14 @@ You will be evaluated on:
     <tr>
       <td><strong>11/17</strong></td>
       <td>Large-scale, parallel processing (batch)</td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href="http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35650.pdf">FlumeJava: Easy, Efficient Data-Parallel Pipelines (2010)</a></li>
+          <li><a href="https://amplab.cs.berkeley.edu/wp-content/uploads/2013/05/grades-graphx_with_fonts.pdf">GraphX: A Resilient Distributed Graph System on Spark (2013)</a></li>
+          <li><a href="http://www.vldb.org/pvldb/vldb2010/papers/R29.pdf">Dremel: Interactive Analysis of Web-Scale Datasets (2010)</a></li>
+          <li><a href="http://www.dcs.bbk.ac.uk/~dell/teaching/cc/paper/sigmod08/p1099-olston.pdf">Pig latin: a not-so-foreign language for data processing (2008)</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>11/24</strong></td>
