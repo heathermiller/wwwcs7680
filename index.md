@@ -232,7 +232,7 @@ You will be evaluated on:
     </tr>
     <tr>
       <td><strong>12/8</strong></td>
-      <td>Final projects/td>
+      <td>Final projects</td>
       <td><strong>One-on-one final project meetings throughout the week (no class)</strong></td>
     </tr>
   </tbody>
